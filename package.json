@@ -1,0 +1,14 @@
+{
+  "name": "2018-portfolio",
+  "author": "Joseph Niel Tuazon <josephnieltuazon@yahoo.com>",
+  "description": "Portfolio for 2018",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "express": "latest"
+  }
+}
